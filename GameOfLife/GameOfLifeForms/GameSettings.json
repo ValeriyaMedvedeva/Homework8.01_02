@@ -1,0 +1,7 @@
+﻿{
+    "Height": 10,
+    "Width": 15,
+    "MaxNeighboursDie": 3,
+    "MinNeighboursReproduce": 1,
+    "MaxNeighboursReproduce": 3
+}
